@@ -1,2 +1,2 @@
 # x-o-game
-X-O game using javaScript
+Project creation course: https://youtu.be/HdpQco3vKBk?list=TLGGB2OtfK5DjLEyNzA4MjAyMw
